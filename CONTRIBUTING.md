@@ -5,7 +5,7 @@
 ## 开发环境设置
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vnpy.git
+git clone https://github.com/AISKILLEcommerce/vnpy.git
 cd vnpy
 npm install
 ```
